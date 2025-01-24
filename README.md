@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nishantchy
-- 👀 I’m interested in Web development
+- 👀 I’m a Full Stack Web Developer.
 - 🌱 chaudharynishant.com.np
-- Current Skills: ReactJs, Laravel, Bootstrap.
+- Current Skills: Next.Js, Node.Js, Express.Js, TypeScript.
